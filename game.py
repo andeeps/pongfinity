@@ -1,3 +1,6 @@
+# Author: Andeepsgo
+# Date: 05/11/2022
+
 import pygame
 #import pandas as pd
 import random as rd
